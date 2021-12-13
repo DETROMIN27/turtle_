@@ -11,7 +11,7 @@
              <p> <img src="http://s1.gismeteo.ua/static/news/img/src/33451/f7411576.jpg" weight="140px" height="250px" >
           <img src="https://zelenvsit.cx.ua/wp-content/uploads/2018/5/nzm-5955.jpg" weight="140px" height="270px">
           <img src="https://cherepah.ru/wp-content/uploads/5/b/d/5bde5e2a791de7070ca3c722af1db1b8.jpg" weight="160px" height="360px" >
-           <img src="https://multiurok.ru/img/123270/image_60a959a9755a3.jpg" weight="140px" height="490px"></p>
+           <img src="https://multiurok.ru/img/123270/image_60a959a9755a3.jpg" weight="140px" height="390px"></p>
             </header>
              <main>
                  <p style="text-align:center; color:coral; background:grey;font-size:20px" >     Черепа́хи (Testudines) — ряд завропсидів (за старою класифікацією — плазунів), що існує впродовж 250 мільйонів років. Містить близько 230 видів, що групуються в 12 родин і 5 підрядів, що поширені по всій землі і живуть як у воді, так і на суші. Черепахи здавна вважаються символом повільності і мудрості. Будова тварини настільки своєрідна й так відрізняється від будови інших представників класу плазуни, що їх неможливо сплутати.</p>
