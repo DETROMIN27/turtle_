@@ -12,8 +12,8 @@
             </header>
              <main>
                  <p style="text-align:center; color:coral; background:grey;font-size:20px" >     Черепа́хи (Testudines) — ряд завропсидів (за старою класифікацією — плазунів), що існує впродовж 250 мільйонів років. Містить близько 230 видів, що групуються в 12 родин і 5 підрядів, що поширені по всій землі і живуть як у воді, так і на суші. Черепахи здавна вважаються символом повільності і мудрості. Будова тварини настільки своєрідна й так відрізняється від будови інших представників класу плазуни, що їх неможливо сплутати.</p>
-      <p>  <img src="https://drive.google.com/uc?export=view&id=1a3Zv71-dgHhyXSeEqOskI7RtJscrqlMz"wight="300px" height="430px" style="align:center">
-        <img src="https://cherepah.ru/wp-content/uploads/1/6/0/160ef6a00e1431253c9c382ab4148198.jpg:large" weight="300px" height="390px">
+      <p>  <img src="https://drive.google.com/uc?export=view&id=1a3Zv71-dgHhyXSeEqOskI7RtJscrqlMz"wight="200px" height="330px" style="align:center">
+        <img src="https://cherepah.ru/wp-content/uploads/1/6/0/160ef6a00e1431253c9c382ab4148198.jpg:large" weight="200px" height="290px">
          </p>
      <h2 style="text-align:center; color:coral; background:grey;font-size:20px "> </h2>           
          <p style="text-align:center; color:coral; background:grey;font-size:20px" > Ростуть черепахи протягом усього життя. З віком їх ріст стає повільнішим. Живуть тварини довго. Багато видів черепах доживають до 100 років. Та це не межа. Відомий випадок, коли на Атлантичному узбережжі Франції рибалки зловили черепаху віком близько 200 років.[2]А корейські рибалки піймали черепаху з табличкою на панцирі, що вона жила ще в 14-му році династії Мін (панувала з 1368 р.), — тобто вік черепахи близько 600 років. </p>
